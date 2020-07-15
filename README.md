@@ -14,5 +14,5 @@ I like to ...
 - play drums
 - build houses in Minecraft
 - watch [Youtube](youtube.com)
-- go to [Reddit](reddit.com]
+- go to [Reddit](reddit.com)
 - eat MüsliMitApfel
