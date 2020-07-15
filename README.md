@@ -1,16 +1,18 @@
-### Hi there 👋
+## About me ↓
 
-<!--
-**JannisKohle/jAnNiSkOhLe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Jannis, a 12 year old programmer who loves to learn new stuff and code.
+I started learning Python when I was 8 years old, and a few months ago I started learning Node and Express.
 
-Here are some ideas to get you started:
+Some projects I'm working on right now:
+- [teamcode](github.com/JannisKohle/teamcode): A chatting tool for teams
+- [diaryApi](github.com/JannisKohle/diaryApi): A rest api for writing diaries
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-------------------
+
+I like to ...
+- code
+- play drums
+- build houses in Minecraft
+- watch [Youtube](youtube.com)
+- go to [Reddit](reddit.com]
+- eat MüsliMitApfel
