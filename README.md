@@ -13,6 +13,6 @@ I like to ...
 - code
 - play drums
 - build houses in Minecraft
-- watch [Youtube](youtube.com)
-- go to [Reddit](reddit.com)
+- watch [Youtube](https://youtube.com)
+- go to [Reddit](https://reddit.com)
 - eat MüsliMitApfel
