@@ -5,7 +5,7 @@ I started learning Python when I was 8 years old, and a few months ago I started
 
 Some projects I'm working on right now:
 - [teamcode](https://github.com/JannisKohle/teamcode): A chatting tool for teams
-- [diaryApi](https://github.com/JannisKohle/diaryApi): A rest api for writing diaries
+- [nuntius](https://github.com/JannisKohle/nuntius): A very great twitter clone
 
 -------------------
 
